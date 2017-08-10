@@ -311,6 +311,21 @@
                 id="xda"
                 title="XDA"
                 description="Visit DND Moto E3 Power XDA thread">https://forum.xda-developers.com/moto-e3/development/rom-darkness-redefined-moto-e3-power-t3636941</XDAUrl>
-        </taido_row>         
+        </taido_row> 
+        <land>
+            <Filename>DND-2.1-land-20170810-0804-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download DND build">https://sourceforge.net/projects/teamdarkness/files/DarkNess-reDefined/land/DND-2.1-land-20170810-0804-OFFICIAL.zip/download</RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open gapps">https://opengapps.org</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit DND Redmi 3S XDA thread">https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-darkness-redefined-t3653503</XDAUrl>
+       </land>
     </Stable>
 </SlimOTA>
