@@ -327,5 +327,20 @@
                 title="XDA"
                 description="Visit DND Redmi 3S XDA thread">https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-darkness-redefined-t3653503</XDAUrl>
        </land>
+       <kiwi>
+            <Filename>DND-2.1-kiwi-20170813-1839-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download DND build">https://sourceforge.net/projects/teamdarkness/files/DarkNess-reDefined/kiwi/DND-2.1-kiwi-20170813-1839-OFFICIAL.zip/download</RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open gapps">https://opengapps.org</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit DND Redmi 3S XDA thread">https://forum.xda-developers.com/honor-5x/development/rom-darkness-redefined-t3588008</XDAUrl>
+       </land>
     </Stable>
 </SlimOTA>
